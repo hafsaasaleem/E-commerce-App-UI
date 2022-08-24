@@ -1,12 +1,10 @@
-# ecommmerce
+# E-commerce App
 
 A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
-
-**Packages we are using:**
+**Packages I are using:**
 
 - flutter_svg: [link](https://pub.dev/packages/flutter_svg)
 
