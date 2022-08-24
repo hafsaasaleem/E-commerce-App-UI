@@ -6,11 +6,15 @@ A new Flutter project.
 
 This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+**Packages we are using:**
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- flutter_svg: [link](https://pub.dev/packages/flutter_svg)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+On our E-commerce app UI has two pages one for the product page which has a horizontal list of categories then a list of our products. Then on the details page, it shows the price and short description of the product with the Buy Now button. The best part of our E-commerce app is, each product has its own color which looks great.
+
+### E-commerce App Final UI
+
+![intro](intro.gif)
+
+![App UI](/ui.png)
